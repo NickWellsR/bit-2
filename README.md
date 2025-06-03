@@ -1,4 +1,4 @@
-# 🧑‍🎓 Student Cards Web App
+# 🧑‍🎓 Proyecto de Visualización de Estudiantes
 
 Este proyecto es una aplicación web sencilla que muestra tarjetas informativas de estudiantes con sus promedios de proyectos y enlaces a sus perfiles de GitHub.
 

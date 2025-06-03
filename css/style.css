@@ -1,0 +1,40 @@
+/* Fondo general */
+body {
+  background-color: #ccdffc; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilo del título principal */
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: #003366; 
+  margin: 2rem 0 1rem 0;
+  font-weight: 700;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  letter-spacing: 1px;
+}
+
+/* Ajustes de tarjetas */
+.card {
+  border-radius: 12px;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Botones */
+.btn-primary {
+  background-color: #0066cc;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #004c99;
+}
+
